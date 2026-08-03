@@ -1,0 +1,200 @@
+Age,Gender,Sleep Duration,Screen Time Before Bed,Caffeine Cups,Caffeine Timing,Exercise,Stress Level,Sleep Time,Sleep Quality Score,Sleep_Duration_Hours,Sleep Quality
+24.0,Male,3–5 hours,1–2 hours,1,6+ hours before bed,30-60 Minutes,2,Morning,3,2,Fair
+23.0,Male,6–8 hours,1–2 hours,1,6+ hours before bed,30-60 Minutes,3,Morning,2,3,Poor
+25.0,Female,6–8 hours,1–2 hours,1,3–5 hours before bed,30-60 Minutes,2,Night,4,3,Good
+24.0,Male,3–5 hours,3+ hours,2,3–5 hours before bed,2+,5,Morning,1,2,Poor
+28.0,Male,6–8 hours,0–1 hours,1,6+ hours before bed,30-60 Minutes,1,Night,4,3,Good
+15.0,Male,9–11+ hours,1–2 hours,0,3–5 hours before bed,Under 30 Minutes,2,Night,4,4,Good
+25.0,Female,9–11+ hours,1–2 hours,2,0–2 hours before bed,Under 30 Minutes,4,Morning,4,4,Good
+18.0,Female,6–8 hours,3+ hours,0,Never,No Exercise,2,Night,3,3,Fair
+38.0,Female,6–8 hours,2–3 hours,2,6+ hours before bed,No Exercise,2,Night,4,3,Good
+25.0,Female,6–8 hours,2–3 hours,3,3–5 hours before bed,No Exercise,3,Night,3,3,Fair
+18.0,Male,9–11+ hours,2–3 hours,4,6+ hours before bed,Under 30 Minutes,2,Morning,5,4,Good
+15.0,Female,9–11+ hours,3+ hours,1,3–5 hours before bed,No Exercise,3,Morning,4,4,Good
+27.0,Female,9–11+ hours,3+ hours,2,3–5 hours before bed,No Exercise,2,Morning,5,4,Good
+17.0,Female,3–5 hours,3+ hours,3,3–5 hours before bed,1-2 Hours,3,Morning,4,2,Good
+18.0,Female,6–8 hours,3+ hours,1,3–5 hours before bed,30-60 Minutes,2,Morning,3,3,Fair
+21.0,Male,9–11+ hours,2–3 hours,2,3–5 hours before bed,Under 30 Minutes,2,Night,3,4,Fair
+25.0,Male,6–8 hours,2–3 hours,2,3–5 hours before bed,30-60 Minutes,2,Night,3,3,Fair
+18.0,Female,6–8 hours,3+ hours,2,3–5 hours before bed,1-2 Hours,3,Night,3,3,Fair
+19.0,Female,6–8 hours,2–3 hours,1,3–5 hours before bed,Under 30 Minutes,3,Night,5,3,Good
+24.0,Female,6–8 hours,2–3 hours,1,3–5 hours before bed,30-60 Minutes,5,Morning,3,3,Fair
+16.0,Female,3–5 hours,3+ hours,3,0–2 hours before bed,1-2 Hours,3,Night,2,2,Poor
+27.0,Male,6–8 hours,3+ hours,2,3–5 hours before bed,No Exercise,3,Morning,2,3,Poor
+24.0,Male,9–11+ hours,3+ hours,2,0–2 hours before bed,2+,5,Morning,1,4,Poor
+15.0,Female,3–5 hours,1–2 hours,0,Never,30-60 Minutes,4,Morning,3,2,Fair
+22.0,Female,3–5 hours,2–3 hours,1,6+ hours before bed,No Exercise,3,Morning,1,2,Poor
+18.0,Female,9–11+ hours,1–2 hours,2,3–5 hours before bed,Under 30 Minutes,3,Morning,2,4,Poor
+17.0,Female,6–8 hours,2–3 hours,0,Never,No Exercise,3,Night,3,3,Fair
+56.0,Female,6–8 hours,3+ hours,3,0–2 hours before bed,No Exercise,3,Morning,4,3,Good
+63.0,Female,9–11+ hours,3+ hours,3,3–5 hours before bed,30-60 Minutes,4,Morning,5,4,Good
+24.0,Female,6–8 hours,0–1 hours,2,3–5 hours before bed,Under 30 Minutes,2,Night,4,3,Good
+24.0,Female,6–8 hours,1–2 hours,1,6+ hours before bed,30-60 Minutes,3,Night,3,3,Fair
+25.0,Female,9–11+ hours,0–1 hours,1,6+ hours before bed,No Exercise,5,Morning,4,4,Good
+24.0,Male,6–8 hours,0–1 hours,2,3–5 hours before bed,No Exercise,3,Night,4,3,Good
+22.0,Male,6–8 hours,0–1 hours,1,6+ hours before bed,30-60 Minutes,2,Night,5,3,Good
+24.0,Female,6–8 hours,2–3 hours,2,3–5 hours before bed,30-60 Minutes,3,Morning,3,3,Fair
+26.0,Male,3–5 hours,1–2 hours,2,3–5 hours before bed,Under 30 Minutes,5,Night,1,2,Poor
+26.0,Female,6–8 hours,1–2 hours,1,6+ hours before bed,No Exercise,3,Night,3,3,Fair
+15.0,Female,6–8 hours,1–2 hours,0,6+ hours before bed,30-60 Minutes,1,Night,1,3,Poor
+22.0,Male,6–8 hours,0–1 hours,2,3–5 hours before bed,Under 30 Minutes,2,Night,4,3,Good
+23.0,Male,6–8 hours,3+ hours,1,6+ hours before bed,No Exercise,1,Night,5,3,Good
+33.0,Male,6–8 hours,3+ hours,1,6+ hours before bed,30-60 Minutes,1,Morning,4,3,Good
+20.0,Female,3–5 hours,3+ hours,2,0–2 hours before bed,No Exercise,3,Morning,2,2,Poor
+13.0,Female,6–8 hours,0–1 hours,2,3–5 hours before bed,1-2 Hours,3,Night,4,3,Good
+47.0,Male,6–8 hours,1–2 hours,1,6+ hours before bed,Under 30 Minutes,1,Night,3,3,Fair
+16.0,Female,3–5 hours,3+ hours,1,3–5 hours before bed,No Exercise,2,Night,3,2,Fair
+22.0,Female,6–8 hours,3+ hours,1,0–2 hours before bed,2+,4,Night,4,3,Good
+29.0,Male,6–8 hours,1–2 hours,1,3–5 hours before bed,1-2 Hours,2,Morning,4,3,Good
+20.0,Female,6–8 hours,0–1 hours,2,3–5 hours before bed,No Exercise,5,Night,3,3,Fair
+18.0,Male,3–5 hours,3+ hours,1,0–2 hours before bed,30-60 Minutes,4,Night,3,2,Fair
+19.0,Female,6–8 hours,1–2 hours,2,3–5 hours before bed,30-60 Minutes,3,Morning,3,3,Fair
+27.0,Female,0–2 hours,0–1 hours,2,0–2 hours before bed,No Exercise,4,Night,3,1,Fair
+31.0,Female,6–8 hours,3+ hours,0,Never,No Exercise,3,Morning,2,3,Poor
+23.0,Male,6–8 hours,2–3 hours,2,3–5 hours before bed,30-60 Minutes,2,Night,3,3,Fair
+14.0,Male,3–5 hours,3+ hours,2,0–2 hours before bed,No Exercise,5,Morning,1,2,Poor
+20.0,Female,9–11+ hours,2–3 hours,3,3–5 hours before bed,30-60 Minutes,3,Morning,3,4,Fair
+26.0,Female,6–8 hours,3+ hours,1,3–5 hours before bed,No Exercise,4,Morning,2,3,Poor
+17.0,Female,6–8 hours,1–2 hours,1,3–5 hours before bed,Under 30 Minutes,2,Night,3,3,Fair
+14.0,Female,3–5 hours,1–2 hours,1,6+ hours before bed,No Exercise,5,Night,3,2,Fair
+36.0,Female,6–8 hours,2–3 hours,1,6+ hours before bed,Under 30 Minutes,3,Morning,3,3,Fair
+23.0,Male,6–8 hours,0–1 hours,1,6+ hours before bed,Under 30 Minutes,4,Night,3,3,Fair
+17.0,Female,6–8 hours,3+ hours,0,Never,No Exercise,2,Morning,3,3,Fair
+24.0,Female,6–8 hours,1–2 hours,2,6+ hours before bed,Under 30 Minutes,4,Night,3,3,Fair
+20.0,Female,6–8 hours,2–3 hours,1,3–5 hours before bed,1-2 Hours,3,Night,3,3,Fair
+25.0,Male,6–8 hours,0–1 hours,1,3–5 hours before bed,Under 30 Minutes,2,Night,4,3,Good
+25.0,Male,6–8 hours,0–1 hours,1,6+ hours before bed,30-60 Minutes,1,Night,5,3,Good
+41.0,Male,6–8 hours,3+ hours,3,0–2 hours before bed,1-2 Hours,3,Morning,2,3,Poor
+18.0,Female,9–11+ hours,0–1 hours,0,3–5 hours before bed,Under 30 Minutes,2,Night,2,4,Poor
+21.0,Female,6–8 hours,1–2 hours,1,6+ hours before bed,Under 30 Minutes,3,Night,3,3,Fair
+31.0,Male,6–8 hours,1–2 hours,2,6+ hours before bed,Under 30 Minutes,3,Night,4,3,Good
+18.0,Female,9–11+ hours,3+ hours,1,3–5 hours before bed,Under 30 Minutes,3,Morning,5,4,Good
+26.0,Female,6–8 hours,0–1 hours,0,6+ hours before bed,Under 30 Minutes,1,Night,1,3,Poor
+23.0,Female,9–11+ hours,0–1 hours,1,3–5 hours before bed,30-60 Minutes,4,Night,3,4,Fair
+19.0,Male,6–8 hours,0–1 hours,2,3–5 hours before bed,Under 30 Minutes,4,Night,3,3,Fair
+30.0,Male,3–5 hours,1–2 hours,2,3–5 hours before bed,30-60 Minutes,4,Night,3,2,Fair
+23.0,Male,6–8 hours,0–1 hours,1,0–2 hours before bed,Under 30 Minutes,2,Night,3,3,Fair
+22.0,Female,3–5 hours,1–2 hours,0,Never,No Exercise,2,Night,3,2,Fair
+26.0,Female,6–8 hours,1–2 hours,2,3–5 hours before bed,No Exercise,4,Night,4,3,Good
+23.0,Female,6–8 hours,1–2 hours,1,0–2 hours before bed,30-60 Minutes,3,Morning,3,3,Fair
+24.0,Female,3–5 hours,3+ hours,0,Never,No Exercise,2,Morning,3,2,Fair
+25.0,Female,3–5 hours,1–2 hours,2,3–5 hours before bed,Under 30 Minutes,3,Night,3,2,Fair
+31.0,Male,3–5 hours,1–2 hours,3,3–5 hours before bed,30-60 Minutes,2,Night,3,2,Fair
+25.0,Female,9–11+ hours,2–3 hours,0,Never,1-2 Hours,1,Morning,4,4,Good
+24.0,Female,6–8 hours,0–1 hours,1,3–5 hours before bed,Under 30 Minutes,2,Night,3,3,Fair
+18.0,Female,9–11+ hours,3+ hours,1,0–2 hours before bed,30-60 Minutes,5,Morning,3,4,Fair
+44.0,Male,3–5 hours,1–2 hours,2,0–2 hours before bed,Under 30 Minutes,4,Morning,2,2,Poor
+22.0,Male,6–8 hours,1–2 hours,2,3–5 hours before bed,No Exercise,3,Night,4,3,Good
+23.0,Male,6–8 hours,2–3 hours,2,6+ hours before bed,Under 30 Minutes,3,Morning,2,3,Poor
+23.0,Male,9–11+ hours,1–2 hours,2,3–5 hours before bed,Under 30 Minutes,1,Morning,3,4,Fair
+43.0,Male,6–8 hours,0–1 hours,3,0–2 hours before bed,Under 30 Minutes,3,Night,4,3,Good
+46.0,Male,3–5 hours,0–1 hours,2,0–2 hours before bed,No Exercise,2,Night,4,2,Good
+35.0,Female,6–8 hours,1–2 hours,3,3–5 hours before bed,No Exercise,4,Night,3,3,Fair
+45.0,Male,3–5 hours,0–1 hours,3,0–2 hours before bed,30-60 Minutes,1,Night,4,2,Good
+45.0,Male,6–8 hours,1–2 hours,1,6+ hours before bed,No Exercise,3,Night,3,3,Fair
+33.0,Male,6–8 hours,1–2 hours,1,6+ hours before bed,30-60 Minutes,1,Morning,5,3,Good
+18.0,Male,6–8 hours,1–2 hours,1,6+ hours before bed,30-60 Minutes,1,Morning,5,3,Good
+29.0,Male,6–8 hours,1–2 hours,1,6+ hours before bed,1-2 Hours,1,Night,5,3,Good
+37.0,Male,6–8 hours,1–2 hours,1,6+ hours before bed,30-60 Minutes,1,Night,5,3,Good
+25.0,Male,0–2 hours,3+ hours,3,0–2 hours before bed,No Exercise,5,Morning,1,1,Poor
+26.0,Male,3–5 hours,1–2 hours,2,3–5 hours before bed,30-60 Minutes,3,Night,2,2,Poor
+30.0,Male,6–8 hours,3+ hours,2,3–5 hours before bed,Under 30 Minutes,3,Morning,2,3,Poor
+17.0,Male,0–2 hours,3+ hours,3,0–2 hours before bed,No Exercise,5,Morning,1,1,Poor
+20.0,Male,0–2 hours,3+ hours,4,0–2 hours before bed,No Exercise,5,Morning,1,1,Poor
+16.0,Male,9–11+ hours,3+ hours,1,6+ hours before bed,1-2 Hours,3,Night,3,4,Fair
+29.0,Male,0–2 hours,3+ hours,3,0–2 hours before bed,No Exercise,4,Morning,1,1,Poor
+27.0,Male,3–5 hours,1–2 hours,3,3–5 hours before bed,30-60 Minutes,2,Night,3,2,Fair
+20.0,Male,0–2 hours,2–3 hours,3,3–5 hours before bed,Under 30 Minutes,4,Morning,1,1,Poor
+13.0,Male,6–8 hours,1–2 hours,0,Never,No Exercise,3,Night,4,3,Good
+25.0,Male,3–5 hours,2–3 hours,4,0–2 hours before bed,30-60 Minutes,2,Night,3,2,Fair
+44.0,Male,6–8 hours,1–2 hours,4,6+ hours before bed,Under 30 Minutes,3,Night,3,3,Fair
+29.0,Male,6–8 hours,1–2 hours,1,6+ hours before bed,2+,1,Night,5,3,Good
+21.0,Male,3–5 hours,2–3 hours,2,3–5 hours before bed,Under 30 Minutes,3,Night,2,2,Poor
+23.0,Male,3–5 hours,1–2 hours,2,3–5 hours before bed,Under 30 Minutes,4,Night,2,2,Poor
+29.0,Female,6–8 hours,2–3 hours,2,6+ hours before bed,1-2 Hours,2,Night,4,3,Good
+28.0,Female,3–5 hours,0–1 hours,2,3–5 hours before bed,Under 30 Minutes,4,Morning,1,2,Poor
+31.0,Male,9–11+ hours,3+ hours,2,3–5 hours before bed,Under 30 Minutes,3,Morning,2,4,Poor
+28.0,Female,0–2 hours,3+ hours,2,6+ hours before bed,30-60 Minutes,5,Night,2,1,Poor
+29.0,Male,9–11+ hours,3+ hours,3,3–5 hours before bed,Under 30 Minutes,5,Morning,1,4,Poor
+32.0,Male,3–5 hours,3+ hours,2,3–5 hours before bed,Under 30 Minutes,4,Night,2,2,Poor
+22.0,Male,0–2 hours,2–3 hours,1,3–5 hours before bed,2+,5,Night,4,1,Good
+27.0,Female,9–11+ hours,3+ hours,3,0–2 hours before bed,Under 30 Minutes,2,Morning,2,4,Poor
+32.0,Female,6–8 hours,0–1 hours,0,Never,30-60 Minutes,1,Night,5,3,Good
+31.0,Male,3–5 hours,2–3 hours,3,3–5 hours before bed,Under 30 Minutes,4,Morning,2,2,Poor
+22.0,Male,6–8 hours,0–1 hours,1,6+ hours before bed,Under 30 Minutes,3,Night,3,3,Fair
+28.0,Female,6–8 hours,2–3 hours,2,3–5 hours before bed,No Exercise,2,Night,1,3,Poor
+29.0,Female,6–8 hours,1–2 hours,2,3–5 hours before bed,1-2 Hours,2,Morning,2,3,Poor
+19.0,Male,3–5 hours,2–3 hours,3,3–5 hours before bed,No Exercise,5,Morning,1,2,Poor
+42.0,Male,3–5 hours,1–2 hours,3,0–2 hours before bed,No Exercise,3,Night,3,2,Fair
+32.0,Male,3–5 hours,2–3 hours,2,3–5 hours before bed,Under 30 Minutes,4,Morning,2,2,Poor
+26.0,Female,6–8 hours,3+ hours,2,3–5 hours before bed,No Exercise,2,Night,5,3,Good
+23.0,Female,3–5 hours,1–2 hours,1,3–5 hours before bed,1-2 Hours,5,Night,1,2,Poor
+21.0,Male,9–11+ hours,2–3 hours,3,3–5 hours before bed,Under 30 Minutes,4,Morning,2,4,Poor
+21.0,Female,3–5 hours,1–2 hours,1,6+ hours before bed,Under 30 Minutes,4,Night,4,2,Good
+24.0,Female,6–8 hours,2–3 hours,3,3–5 hours before bed,30-60 Minutes,2,Night,2,3,Poor
+35.0,Female,6–8 hours,1–2 hours,2,3–5 hours before bed,No Exercise,2,Night,4,3,Good
+31.0,Female,6–8 hours,2–3 hours,2,3–5 hours before bed,No Exercise,1,Night,5,3,Good
+21.0,Male,9–11+ hours,3+ hours,3,0–2 hours before bed,Under 30 Minutes,4,Morning,2,4,Poor
+26.0,Male,6–8 hours,1–2 hours,4,0–2 hours before bed,No Exercise,3,Morning,2,3,Poor
+35.0,Female,6–8 hours,2–3 hours,2,3–5 hours before bed,No Exercise,2,Night,4,3,Good
+27.0,Female,3–5 hours,2–3 hours,3,3–5 hours before bed,30-60 Minutes,1,Morning,5,2,Good
+31.0,Male,9–11+ hours,1–2 hours,1,6+ hours before bed,30-60 Minutes,1,Morning,5,4,Good
+26.0,Female,6–8 hours,0–1 hours,0,Never,30-60 Minutes,1,Night,5,3,Good
+22.0,Female,9–11+ hours,3+ hours,3,0–2 hours before bed,No Exercise,5,Night,2,4,Poor
+31.0,Female,6–8 hours,0–1 hours,1,6+ hours before bed,30-60 Minutes,1,Night,5,3,Good
+23.0,Female,3–5 hours,3+ hours,2,3–5 hours before bed,No Exercise,3,Night,3,2,Fair
+24.0,Male,3–5 hours,3+ hours,3,3–5 hours before bed,Under 30 Minutes,2,Night,3,2,Fair
+30.0,Female,6–8 hours,2–3 hours,2,3–5 hours before bed,1-2 Hours,2,Night,2,3,Poor
+30.0,Male,3–5 hours,2–3 hours,2,3–5 hours before bed,Under 30 Minutes,4,Morning,1,2,Poor
+32.0,Female,6–8 hours,1–2 hours,0,Never,30-60 Minutes,2,Night,5,3,Good
+33.0,Female,3–5 hours,1–2 hours,2,3–5 hours before bed,1-2 Hours,5,Night,5,2,Good
+30.0,Male,6–8 hours,0–1 hours,1,6+ hours before bed,30-60 Minutes,2,Night,5,3,Good
+33.0,Female,6–8 hours,1–2 hours,1,6+ hours before bed,Under 30 Minutes,1,Night,5,3,Good
+33.0,Female,3–5 hours,2–3 hours,2,3–5 hours before bed,30-60 Minutes,1,Night,2,2,Poor
+33.0,Male,6–8 hours,1–2 hours,1,6+ hours before bed,30-60 Minutes,1,Night,5,3,Good
+31.0,Male,3–5 hours,2–3 hours,2,0–2 hours before bed,Under 30 Minutes,4,Night,1,2,Poor
+48.0,Female,6–8 hours,1–2 hours,3,0–2 hours before bed,Under 30 Minutes,2,Night,2,3,Poor
+22.0,Male,6–8 hours,0–1 hours,4,6+ hours before bed,Under 30 Minutes,2,Night,3,3,Fair
+21.0,Female,9–11+ hours,1–2 hours,3,3–5 hours before bed,No Exercise,4,Night,4,4,Good
+21.0,Female,3–5 hours,2–3 hours,0,0–2 hours before bed,30-60 Minutes,2,Night,2,2,Poor
+75.0,Male,3–5 hours,1–2 hours,3,3–5 hours before bed,No Exercise,3,Night,2,2,Poor
+40.0,Female,6–8 hours,1–2 hours,2,6+ hours before bed,No Exercise,3,Night,4,3,Good
+35.0,Female,3–5 hours,1–2 hours,2,3–5 hours before bed,No Exercise,2,Night,3,2,Fair
+23.0,Female,6–8 hours,2–3 hours,1,3–5 hours before bed,1-2 Hours,3,Morning,3,3,Fair
+21.0,Female,9–11+ hours,3+ hours,1,3–5 hours before bed,1-2 Hours,4,Morning,3,4,Fair
+22.0,Female,6–8 hours,2–3 hours,3,0–2 hours before bed,No Exercise,4,Morning,3,3,Fair
+22.0,Female,3–5 hours,1–2 hours,2,3–5 hours before bed,1-2 Hours,3,Night,3,2,Fair
+24.0,Male,6–8 hours,1–2 hours,1,6+ hours before bed,No Exercise,2,Night,4,3,Good
+22.0,Male,6–8 hours,0–1 hours,0,Never,Under 30 Minutes,3,Morning,3,3,Fair
+25.0,Male,6–8 hours,1–2 hours,2,6+ hours before bed,30-60 Minutes,2,Night,4,3,Good
+22.0,Male,6–8 hours,0–1 hours,2,6+ hours before bed,1-2 Hours,2,Night,4,3,Good
+53.0,Male,3–5 hours,1–2 hours,3,3–5 hours before bed,Under 30 Minutes,1,Night,4,2,Good
+18.0,Male,3–5 hours,3+ hours,4,3–5 hours before bed,No Exercise,3,Night,2,2,Poor
+36.0,Male,6–8 hours,3+ hours,2,6+ hours before bed,No Exercise,3,Morning,3,3,Fair
+22.0,Female,6–8 hours,1–2 hours,2,0–2 hours before bed,No Exercise,3,Night,3,3,Fair
+48.0,Female,3–5 hours,2–3 hours,2,6+ hours before bed,1-2 Hours,5,Morning,1,2,Poor
+78.0,Female,6–8 hours,0–1 hours,3,6+ hours before bed,Under 30 Minutes,1,Night,3,3,Fair
+40.0,Female,6–8 hours,0–1 hours,2,0–2 hours before bed,30-60 Minutes,5,Morning,3,3,Fair
+53.0,Female,6–8 hours,1–2 hours,2,3–5 hours before bed,No Exercise,1,Night,2,3,Poor
+51.0,Female,6–8 hours,1–2 hours,2,3–5 hours before bed,Under 30 Minutes,4,Night,3,3,Fair
+19.0,Male,3–5 hours,0–1 hours,1,3–5 hours before bed,Under 30 Minutes,2,Night,2,2,Poor
+46.0,Female,6–8 hours,1–2 hours,3,6+ hours before bed,30-60 Minutes,4,Night,5,3,Good
+31.0,Female,6–8 hours,1–2 hours,3,3–5 hours before bed,No Exercise,3,Morning,3,3,Fair
+18.0,Female,6–8 hours,2–3 hours,2,6+ hours before bed,30-60 Minutes,3,Night,3,3,Fair
+40.0,Female,6–8 hours,1–2 hours,2,3–5 hours before bed,No Exercise,3,Morning,3,3,Fair
+40.0,Female,3–5 hours,0–1 hours,2,3–5 hours before bed,Under 30 Minutes,1,Night,5,2,Good
+45.0,Female,3–5 hours,1–2 hours,1,3–5 hours before bed,No Exercise,4,Night,2,2,Poor
+68.0,Male,6–8 hours,1–2 hours,4,0–2 hours before bed,30-60 Minutes,2,Night,4,3,Good
+66.0,Male,3–5 hours,0–1 hours,2,0–2 hours before bed,Under 30 Minutes,3,Night,3,2,Fair
+58.0,Male,3–5 hours,0–1 hours,3,3–5 hours before bed,Under 30 Minutes,2,Night,3,2,Fair
+32.0,Male,9–11+ hours,1–2 hours,1,6+ hours before bed,1-2 Hours,1,Night,4,4,Good
+31.0,Male,6–8 hours,0–1 hours,1,6+ hours before bed,1-2 Hours,1,Night,5,3,Good
+30.0,Male,6–8 hours,0–1 hours,1,6+ hours before bed,1-2 Hours,2,Morning,5,3,Good
+20.0,Male,6–8 hours,1–2 hours,1,3–5 hours before bed,30-60 Minutes,2,Night,5,3,Good
+25.0,Female,9–11+ hours,2–3 hours,3,3–5 hours before bed,Under 30 Minutes,2,Morning,4,4,Good
+25.0,Male,6–8 hours,1–2 hours,1,6+ hours before bed,30-60 Minutes,1,Night,5,3,Good
+24.0,Female,9–11+ hours,2–3 hours,0,Never,No Exercise,1,Morning,4,4,Good
+29.0,Male,6–8 hours,1–2 hours,1,3–5 hours before bed,1-2 Hours,2,Night,4,3,Good
+37.0,Male,6–8 hours,2–3 hours,2,0–2 hours before bed,30-60 Minutes,2,Morning,2,3,Poor
+40.0,Male,6–8 hours,1–2 hours,2,3–5 hours before bed,Under 30 Minutes,2,Night,3,3,Fair
+27.0,Female,6–8 hours,1–2 hours,2,6+ hours before bed,30-60 Minutes,1,Night,4,3,Good
